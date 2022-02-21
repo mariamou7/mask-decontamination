@@ -1,0 +1,22 @@
+Τα υλικά που θα χρειαστούν είναι:
+
+1. Arduino Nano
+2. Ταινία LED
+3. Καλώδια
+4. Διακόπτης
+5. Κουμπί
+6. Buzzer
+
+Ενδεικτικοί σύνδεσμοι για υπολογισμό εκτιμώμενου κόστους:
+
+1. [Arduino Nano](https://grobotronics.com/arduino-nano-compatible-ch340-with-headers.html): 6€
+2. [Ταινία LED](https://grobotronics.com/led-strip-2835-12w-m-ip20-white-cold-8mm-width.html): 4.20€
+3. [Αρσενικά σε αρσενικά καλώδια](https://grobotronics.com/jumper-wires-15cm-male-to-male-pack-of-10.html): 1.80€
+   [Θηλυκά σε θηλυκά καλώδια](https://grobotronics.com/jumper-wires-15cm-female-to-female-pack-of-10.html): 1.80€
+4. [Διακόπτης](https://grobotronics.com/microswitch-mini.html): 0.50€
+5. [Κουμπί](https://grobotronics.com/push-button-momentary-12mm-green.html): 0.80€
+6. [Buzzer](https://grobotronics.com/buzzer-5v.html): 0.40€
+
+Εκτιμώμενο κόστος: 15.50€
+
+Σημείωση: Όπως ίσως παρατηρήσατε, δε θα χρησιμοποιήσουμε ταινία UV-C, αλλά μία κλασική ταινία LED, καθώς η ακτινοβολία UV-C είναι επιβλαβής και δε θέλουμε να εκτεθείς κανείς κατά τη διάρκεια της κατασκευής.
