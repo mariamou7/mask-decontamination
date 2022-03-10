@@ -17,7 +17,7 @@
 2. [Ταινία LED](https://grobotronics.com/led-strip-5050-7w-m-ip65-white-cold-10mm-width.html): 3.60€
 3. [Αρσενικά σε αρσενικά καλώδια](https://grobotronics.com/jumper-wires-15cm-male-to-male-pack-of-10.html): 1.80€
    [Θηλυκά σε θηλυκά καλώδια](https://grobotronics.com/jumper-wires-15cm-female-to-female-pack-of-10.html): 1.80€
-4. [Διακόπτης](https://grobotronics.com/microswitch-mini-spdt-on-on-long-lever.html : 0.50€
+4. [Διακόπτης](https://grobotronics.com/microswitch-mini-spdt-on-on-long-lever.html): 0.50€
 5. [Κουμπί](https://grobotronics.com/rocker-switch-spst-6a-250vac-round.html): 0.50€
 6. [Buzzer](https://grobotronics.com/buzzer-5v.html): 0.40€
 7. [Μετατροπέας DC-DC Step-Up 5-28V](https://grobotronics.com/dc-dc-converter-step-up-5-28v-2a-with-micro-usb-mt3608.html): 1.90€
