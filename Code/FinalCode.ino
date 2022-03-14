@@ -1,8 +1,6 @@
 /*
   Mask decontaminator box final code
 
-  Turns an LED on for one second, then off for one second, repeatedly.
-
   Author: dECOntaminator team
 */
 
