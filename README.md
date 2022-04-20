@@ -1,6 +1,12 @@
 # mask-decontamination
 This project is the participation of the Stamatiou Foundation - CoderDojo Rhodes, in the 4th Panhellenic Open Technologies Competition in the education of the ELLAK group, in the category of Primary schools.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/28193137/164255539-0d1b3ba9-052f-455c-835b-c063afe0aa8f.png" />
+</p>
+
+Το logo αυτό δημιουργήθηκε μέσω του, open source εργαλείου, [Canva](https://www.canva.com/).
+
 ## Περιγραφή στα Ελληνικά
 
 ### Μελέτη υπάρχουσας κατάστασης - Ορισμός προβλήματος και ανάγκης
@@ -15,7 +21,9 @@ This project is the participation of the Stamatiou Foundation - CoderDojo Rhodes
 
 Η λύση που προτείνουμε είναι μια πρωτότυπη ιδέα, η οποία έχει ερευνηθεί, σχεδιαστεί και υλοποιηθεί από εμάς. Η **έμπνευση** της ιδέας αυτής προήλθε από την παρακάτω φωτογραφία του Νίκου Σαμαρά. Η εικόνα αυτή τραβήχθηκε στα νερά του Νοτίου Αιγαίου, απ' όπου και καταγόμαστε. Έτσι, αποφασίσαμε να βοηθήσουμε να μην τραβηχθούν και άλλες εικόνας σαν αυτή. 
 
-![Nikos-Samaras-seahorse-caught-with-mask-in-tail](https://user-images.githubusercontent.com/28193137/155489212-54e9f82b-6834-4fe7-a7f9-93c7ff513412.jpg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/28193137/155489212-54e9f82b-6834-4fe7-a7f9-93c7ff513412.jpg" />
+</p>
 
 Η ομάδα αποτελείται (αλφαβητικά) από τους:
 - Αλέξανδρο Χατζηπέτρο (ΣΤ' Δημοτικού)
