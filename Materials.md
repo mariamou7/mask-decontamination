@@ -6,9 +6,10 @@
 4. Διακόπτης
 5. Κουμπί
 6. Buzzer
-7. Μετατροπέας DC-DC Step-Up 5-28V
-8. Πλακέτα Δοκιμών
-9. Καλώδιο USB 2.0 A σε USB B mini
+7. Relay
+8. Μετατροπέας DC-DC Step-Up 5-28V
+9. Πλακέτα Δοκιμών
+10. Καλώδιο USB 2.0 A σε USB B mini
 
 
 Ενδεικτικοί σύνδεσμοι για υπολογισμό εκτιμώμενου κόστους:
@@ -20,10 +21,11 @@
 4. [Διακόπτης](https://grobotronics.com/microswitch-mini-spdt-on-on-long-lever.html): 0.50€
 5. [Κουμπί](https://grobotronics.com/push-button-small-7mm-momentary-red.html): 0.40€
 6. [Buzzer](https://grobotronics.com/buzzer-5v.html): 0.40€
-7. [Μετατροπέας DC-DC Step-Up 5-28V](https://grobotronics.com/dc-dc-converter-step-up-5-28v-2a-with-micro-usb-mt3608.html): 1.90€
-8. [Πλακέτα Δοκιμών Mini](https://grobotronics.com/breadboard-mini-blue.html): 1.60€
-9. [Καλώδιο USB 2.0 A σε USB B mini](https://grobotronics.com/usb-2.0-a-usb-b-mini-1.8m.html): 2.20€
+7. [Relay](https://grobotronics.com/relay-module-1-channel-5v-high-level-trigger.html): 1.50€
+8. [Μετατροπέας DC-DC Step-Up 5-28V](https://grobotronics.com/dc-dc-converter-step-up-5-28v-2a-with-micro-usb-mt3608.html): 1.90€
+9. [Πλακέτα Δοκιμών Mini](https://grobotronics.com/breadboard-mini-blue.html): 1.60€
+10. [Καλώδιο USB 2.0 A σε USB B mini](https://grobotronics.com/usb-2.0-a-usb-b-mini-1.8m.html): 2.20€
 
-Εκτιμώμενο κόστος: 23.30€
+Εκτιμώμενο κόστος: 24.80€
 
 Σημείωση: Όπως ίσως παρατηρήσατε, δε θα χρησιμοποιήσουμε ταινία UV-C, αλλά μία κλασική ταινία LED, καθώς η ακτινοβολία UV-C είναι επιβλαβής και δε θέλουμε να εκτεθεί κανείς κατά τη διάρκεια της κατασκευής.
